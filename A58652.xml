@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to several passages, citations or charges in a book lately publish'd by F. Bugg styled New Rome arraigned, &amp;c. Being a short vindication of the Christian believers of Jesus of Nazareth, who are in derision termed Quakers, from the said aspersions</title>
+            <author>S. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58652</idno>
+            <idno type="STC">Wing S13</idno>
+            <idno type="STC">ESTC R220303</idno>
+            <idno type="EEBO-CITATION">99831722</idno>
+            <idno type="PROQUEST">99831722</idno>
+            <idno type="VID">36189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36189)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2132:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to several passages, citations or charges in a book lately publish'd by F. Bugg styled New Rome arraigned, &amp;c. Being a short vindication of the Christian believers of Jesus of Nazareth, who are in derision termed Quakers, from the said aspersions</title>
+                  <author>S. D.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: S.D.</note>
+                  <note>A reply to: Bugg, Francis.  New Rome arraigned.</note>
+                  <note>Caption title on p. 2 reads: An answer to several charges of Francis Bugg.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1724? --  New Rome arraigned --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36189:1" rendition="simple:additions"/>
+            <p>An Anſwer to ſeveral Paſſages, Citations or Charges In a BOOK, Lately publiſh'd by <hi>F. Bugg</hi> STYLED, <hi>New Rome Arraigned,</hi> &amp;c.</p>
+            <p>BEING A ſhort Vindication of the Chriſtian Believ<g ref="char:EOLhyphen"/>ers of Jeſus of <hi>Nazareth,</hi> who are in Deriſion termed QUAKERS, From the ſaid ASPERSIONS.</p>
+            <q>
+               <p>Bleſſed are the peace-makers; for they ſhall be cal<g ref="char:EOLhyphen"/>led the children of God,</p>
+               <bibl>Matth. v. 9.</bibl>
+            </q>
+            <q>
+               <p>Let all bitterneſs, and wrath, and anger, and clamor, and evil-ſpeaking, be put away from you, with all malice. And be ye kind one to another, tender-hearted, forgiving one another, even as God, for Chriſt's ſake, hath for<g ref="char:EOLhyphen"/>given you,</p>
+               <bibl>Epheſ. iv. 31, 32.</bibl>
+            </q>
+            <p>
+               <hi>London:</hi> Printed in the Year 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:36189:2"/>
+            <head>An Anſwer to ſeveral Charges of <hi>Francis Bugg.</hi>
+            </head>
+            <p>HAving for theſe ſeveral Years obſerved divers contentious Books written by <hi>F. Bugg</hi> and <hi>George Whitehead</hi> one a<g ref="char:EOLhyphen"/>gainſt the other, I have read their ſeveral Writings on both ſides, and hereby pro<g ref="char:EOLhyphen"/>ceed to give my Senſe of the Matter.</p>
+            <p>Firſt, I apprehend the tendency of <hi>F. Bugg</hi>'s ſtriving is, for to have ſeveral Errors to be Re<g ref="char:EOLhyphen"/>tracted and Condemned as Erroneous; which in my Judgement ought to be done by all true Chri<g ref="char:EOLhyphen"/>ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns.</p>
+            <p>Secondly, <hi>G. Whitehead</hi>'s Contention is to cover and cloak many Errors and Weakneſſes which he and all true Chriſtians ought to condemn, and confeſs: All Fleſh hath ſinned, gone aſtray, erred and fallen ſhort of the glory of God.</p>
+            <p>If any ſhould object and ſay, What here is written is ſhort:</p>
+            <p>I anſwer, Brevity is deſign'd by the Author; for what is written is done in order (if happily it might be ſo) to appeaſe the Fury of an inrag'd Adverſary, believing the ſaid <hi>F. B.</hi> hath been provoked, and do heartily wiſh both the provo<g ref="char:EOLhyphen"/>kers and the provoked might be deeply humbled before the Lord, and beg pardon for all their Sins and Tranſgreſſions, and purſue that Chriſtian Practiſe that Chriſt exhorted unto his Diſciples to follow, who ſaid; <hi>By this ſhall all men know that you are my diſciples, if you love one another:</hi>
+               <pb n="3" facs="tcp:36189:2"/>If this Precept was but once grafted into every Heart, then Strife and Contention would ſoon come to an end.</p>
+            <p>Its alſo my Senſe and Judgment, that the many Books of Contention, writ by <hi>G.W.</hi> and others, hath done much hurt to the Chriſtian Religion, and would be glad, if it ſhould pleaſe God to put it into the Hearts of the Governours and Rulers of the Nation to condemn the ſame, and order them all to be burnt. So I ſhall proceed to anſwer in ſhort ſeveral of <hi>F.B</hi>'s Objections and Charges, deſiring that he, as well as others, would deſiſt from Contention and purſue after Peace, and learn to love all men, ſeeing our Lord and Maſter Jeſus of <hi>Nazereth,</hi> his Love is univerſal to all, and hath enlightned all by his Light and Grace, and taſted Death for every Man, and given him<g ref="char:EOLhyphen"/>ſelf a Ranſom for all: O! who would but fol<g ref="char:EOLhyphen"/>low ſuch a Maſter, as hath ſhed his precious Blood for the Redemption of all? So deſiring every true Believer in Chriſt Jeſus, and follower of him, to bear his Image, and be made conformable un<g ref="char:EOLhyphen"/>to him in Love, Mercy, Goodneſs and Compaſ<g ref="char:EOLhyphen"/>ſion, herein would that great Commandment be kept and not broken; which is, To love God with all thy Might and Strength, <hi>&amp;c.</hi> Then the ſecond alſo would be, To love thy Neighbour as thy ſelf: Which might it be the practice of eve<g ref="char:EOLhyphen"/>ry true Chriſtian is the real Deſire of him who deſires the good and welfare of all mankind, <hi>&amp;c.</hi>
+            </p>
+            <p>Seeing of old time, all was not <hi>Iſrael</hi> that was counted <hi>Iſrael,</hi> ſo may it be ſaid in our Day and Age, all are not true Chriſtian Quakers that are called Quakers; therefore <hi>F. B.</hi> ought not to lay
+<pb n="4" facs="tcp:36189:3"/>his Objections and Charges on ſuch general Terms; for if any, under the denomination of a Quaker, are ignorant and unſound in Matter of Faith and Doctrine (I ſay) their Ignorance ought not to be chargable on the Body or Society of the Chriſti<g ref="char:EOLhyphen"/>an People (who are in deriſion termed Quakers) who ſincerely believe in our Lord and Saviour Jeſus Chriſt, both to his Humanity and his God<g ref="char:EOLhyphen"/>head, in all reſpects, even as the holy Scriptures do teſtifie of him: Therefore, ſeeing <hi>F. B.</hi> grants Contention to be an Offence the Scripture con<g ref="char:EOLhyphen"/>demns, he ought to deſiſt therefrom, and not continue reproaching a People by whole-ſale who believe all things according to the Scriptures, and that they are of Divine Authority, and were given forth by the Inſpiration of the Almighty, and are profitable and of a general Service, ac<g ref="char:EOLhyphen"/>cording to the Teſtimony of the Apoſtle <hi>Paul</hi> to <hi>Timothy,</hi> in his ſecond Epiſtle, ch. 3. v. 16, 17. and if at any time he hath found any particular Man or Men under the Name of a Quaker, that are unſound in the aforeſaid Matter of Faith, or are guilty of Error of any kind, relating to the Chriſtian Religion, <hi>F. B.</hi> ought to pray to God on their behalves, That he would remove their Ignorance and give them a true underſtand<g ref="char:EOLhyphen"/>ing of the things that belong to their Peace, and not vilifie the Society of a People, or any part thereof, upon the ſcore of the Ignorance and Folly of any pretended Member. And whereas <hi>F. B.</hi> continues to take in the Aſhes of the dead, who are gone to give an account of their Deeds, whether good or evil; and ſeeing they are not in viſibility to anſwer for themſelves, its hoped
+<pb n="5" facs="tcp:36189:3"/>he (<hi>viz.</hi> F. B.) will deſiſt from it, not knowing how ſoon the great God of Heaven and Earth may ſummon him to appear before the Bar of his Juſtice, to give an account of his Deeds.</p>
+            <p>Alſo note, I would not hereby be accounted one that would cover an Error in any that are dead, nor in any that are yet living, neither is any Evil or Error connived at or tolerated by a<g ref="char:EOLhyphen"/>ny true Chriſtian Quaker, who through the Pro<g ref="char:EOLhyphen"/>vidence of the Almighty are come to that reſult, and do ſincerely believe and own the ſame Jeſus of <hi>Nazareth,</hi> that was born of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pontius Pilate,</hi> whoſe precious Side was pierced with a Spear, and by wicked hands crucified on the Tree of the Croſs, between two Thieves; whoſe Blood was ſhed for the Re<g ref="char:EOLhyphen"/>miſſion of Sins, who was dead and buried, roſe again the third Day, and aſcended into Heaven, in the ſight of the <hi>Galileans;</hi> who is there as our Mediator and Interceſſor to God our Creator; believing he will forgive us our ſins, for Chriſt's ſake, our only and alone Mediator between him and us poor mortal Creatures, who are nothing without him, neither can we do any thing with<g ref="char:EOLhyphen"/>out him that is acceptable or well-pleaſing in his ſight, but as he ſhall beget a living Faith in us both to will and to do, of his own good pleaſure: To him alone be all Honour and Praiſe given, both now and for evermore, <hi>Amen.</hi>
+            </p>
+            <p>Whereas <hi>F. Bugg</hi> objects againſt <hi>G. Whitehead,</hi> being a contentious continual Scribler, and guilty of giving baſe and ſcurrilous Language, as vile Apoſtates, unruly Beaſts, Wolves, Dogs, Devils incarnate, together with many more of the like import, <hi>&amp;c.</hi>
+            </p>
+            <pb n="6" facs="tcp:36189:4"/>
+            <p>
+               <hi>Anſwer, G. Whitehead</hi> is guilty of the aforeſaid Charge, and he ought to repent of the ſame; and its well hoped he will not juſtifie himſelf in it, nor any for him, but condemn his weakneſs in ſo doing.</p>
+            <p>
+               <hi>Objection</hi> 2. Its alledged, <hi>G. W.</hi> indeavoured to cover and cloak groſs Errors in divers Perſons that are dead (and gone) as alſo in ſome that are yet living, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſwer, G. W.</hi> is ſuppoſed to be guilty in part of the aforeſaid Charge, and its hoped he may ſee his Weakneſs in ſo doing; for the Chriſtian Quaker in general teſtifieth againſt all Error, not only in themſelves, but in all others in whomſo<g ref="char:EOLhyphen"/>ever it appears, believing there is no more Affi<g ref="char:EOLhyphen"/>nity between Truth and Error, than there is be<g ref="char:EOLhyphen"/>tween Light and Darkneſs (which are manifeſt to be too oppoſite Beings).</p>
+            <p>
+               <hi>Objection</hi> 3. Whereas <hi>F. Bugg</hi> accuſes <hi>G. W.</hi> of endeavouring to cover ſeveral Errors in <hi>Thomas Fitzwater, Robert Young</hi> and <hi>Thomas Lloyd</hi> in <hi>Pen<g ref="char:EOLhyphen"/>ſilvania,</hi> whoſe unſound Expreſſions are (as in<g ref="char:EOLhyphen"/>ſerted in his <hi>New Rome Arraigned,</hi> &amp;c.) pag. 37. (quoted by <hi>F. B.</hi>) <hi>God that died in us, and laid down thy Life in us, and took it up again,</hi> &amp;c. <hi>And that when Chriſt aſcended, he was ſeparated from his Body: That Faith in Chriſt without us, as he died for our Sins and roſe again, was not neceſſary to our Sal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The ſaid <hi>T. Fitzwater, R. Young</hi> and <hi>T. Lloyd,</hi> are guilty of high Blaſphemy for their ſo ſaying, and are greatly to be blamed for their ſaid unſound Expreſſions, and all true Chriſtian Quakers do condemn them for the ſame; and do
+<pb n="7" facs="tcp:36189:4"/>further declare, That if <hi>G. W.</hi> or any others do wink or connive at the aforeſaid blaſphemous Expreſſions, he or they are judged to be equally guilty with them: But its hoped, or at leaſt-wiſe deſired, that <hi>G. W.</hi> and others will give out a Chriſtian Teſtimony againſt them for it and o<g ref="char:EOLhyphen"/>thers, for their ſpeaking Irreverently of the Per<g ref="char:EOLhyphen"/>ſon of our Lord and Saviour Jeſus Chriſt; as, alſo, againſt their Perſecution of <hi>G. Keith, T. Budd</hi> and others. Its here teſtified againſt, by and on the behalf of all the true Chriſtian Believers, who are in ſcorn called Quakers, notwithſtanding the Ignorance of any pretended Member, whoſe Fol<g ref="char:EOLhyphen"/>ly ought not to be laid on the Body of the People, whether he be a pretended Preacher or Hearer.</p>
+            <p>
+               <hi>F. Bugg</hi>'s three Charges againſt the Quakers cited, and anſwered.</p>
+            <p>
+               <hi rend="margQuotes">
+                  <hi>Charge the First</hi> (ſays <hi>F. B.</hi>) the Quakers denies him who was born of the Virgin <hi>Mary,</hi> who ſuffered Death upon the Croſs at <hi>Jeruſalem,</hi> who roſe again the third Day, and aſcended in<g ref="char:EOLhyphen"/>to Heaven in the ſight of the <hi>Galileans,</hi> to be Chriſt the Saviour of the World.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The aforeſaid Charge is falſe (as to his laying it on the general) perhaps it may be undeniably true upon ſome that are either dead or alive (for ought I know) but I am ſure he is much to be blamed for laying his Charge ſo ge<g ref="char:EOLhyphen"/>neral; but the ſaid Citation is owned, profeſſed and believed by all ſincere Chriſtian Quakers, therefore his Charge muſt needs be falſe. Not<g ref="char:EOLhyphen"/>withſtanding, if any pretended Member that may be dead or yet is in being, did ever deny Jeſus of <hi>Nazareth</hi> to be the Saviour of the World, he
+<pb n="8" facs="tcp:36189:5"/>is diſowned for the ſame, and deemed no leſs than guilty of Blaſphemy in the ſuperlative de<g ref="char:EOLhyphen"/>gree. For the true Chriſtian Quaker expects Sal<g ref="char:EOLhyphen"/>vation by no other, but by and through Faith in the heavenly Man Chriſt Jeſus; therefore <hi>F. B.</hi>'s aforeſaid Charge is falſe and groundleſs.</p>
+            <p>
+               <hi rend="margQuotes">
+                  <hi>F. B.</hi>'s <hi>ſecond Charge,</hi> They deny (ſays <hi>F. B.</hi> meaning the Quakers) the Scriptures, by ſpeak<g ref="char:EOLhyphen"/>ing contemptuouſly of them, <hi>&amp;c.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The whole Charge is falſe: The true Chriſtian Quaker owns the Scriptures, and pre<g ref="char:EOLhyphen"/>fers them above all Books, Papers or Epiſtles ex<g ref="char:EOLhyphen"/>tant in the whole World; and if any ignorant Man or Men hath, at any time, ſpoken contem<g ref="char:EOLhyphen"/>ptuouſly of them, he is greatly to be blamed, and the Chriſtian Quaker denies Fellowſhip with all them that have in any meaſure ſo done.</p>
+            <p>
+               <hi rend="margQuotes">
+                  <hi>F. B.</hi>'s <hi>third Charge,</hi> That their Teachers are Deceivers of the People, Favorers of Blaſphemy, and of a different Faith from the Apoſtles, Pri<g ref="char:EOLhyphen"/>mitive Chriſtians and bleſſed Martyrs, and Ex<g ref="char:EOLhyphen"/>cuſers of Idolatry, and that their Doctrin tends to overthrow the Chriſtian Faith.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The Matter of the aforeſaid Charge is a Lie upon them, <hi>viz.</hi> all true Chriſtian Qua<g ref="char:EOLhyphen"/>kers, whom God has given the Gift of the Mini<g ref="char:EOLhyphen"/>ſtry, their Work hath been and now is, to unde<g ref="char:EOLhyphen"/>ceive the People, and condem Idolatry and the Wor<g ref="char:EOLhyphen"/>ſhippers thereof, to exhort them to the true Faith, that's agreeable to the Faith of the Apoſtles, Pri<g ref="char:EOLhyphen"/>mitive Chriſtians and bleſſed Martyrs, according as is teſtified in Scripture. If any pretended Member that hath run before his Guide, or run and the Lord never ſent them, hath at any time
+<pb n="9" facs="tcp:36189:5"/>aſſerted a contrary Doctrine he is diſowned for the ſame, therefore the Error of any unſound or unqualified Perſon ought not to be charged in that manner as it ſeems to be, <hi>viz.</hi> on the People in general.</p>
+            <p>
+               <hi>The fourth Charge,</hi> Whereas <hi>F. B.</hi> accuſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jo<g ref="char:EOLhyphen"/>ſiah Coal</hi> and <hi>John Audland</hi> of giving Divine At<g ref="char:EOLhyphen"/>tributes and Blaſphemous Titles to <hi>G. Fox,</hi> un<g ref="char:EOLhyphen"/>condemned, and ſtill juſtified or excuſed; which ſaid Titles <hi>F. B.</hi> hath largly cited, divers times, in divers of his printed Books, for which reaſon the Citations are not here inſerted, being too well known to the World already.</p>
+            <p>
+               <hi>Anſwer,</hi> The ſaid <hi>Joſiah Coal</hi> and <hi>John Audland</hi> were guilty of Blaſphemy in ſo doing, and it was a wonderful great Error in them, and a greater in <hi>G. Fox,</hi> for not reproving them (if he did not) Its further granted, That if any ſhould Juſtifie the ſaid <hi>J. Coal</hi> and <hi>J. Audland</hi> in their giving of it, or <hi>G. F.</hi> in the not reproving it, they are all deemed equally guilty of Blaſphemy, in a high degree, both the Givers, the Receiver and the Juſtifier, for attributing that to a Mortal Cor<g ref="char:EOLhyphen"/>rupt Man which was due to none but to our ſu<g ref="char:EOLhyphen"/>preme Lord and Maſter, Chriſt Jeſus, the Savi<g ref="char:EOLhyphen"/>our of the World.</p>
+            <p>
+               <hi rend="margQuotes">F. Bugg<hi>'s fifth Charge,</hi> wherein he accuſeth <hi>E. Burrowgh, George Fox, Rob. Sandiland, George Whitehead</hi> and others, of giving baſe and ſcur<g ref="char:EOLhyphen"/>rilous Language, calling others ill Names, <hi>&amp;c.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> Its thought moſt requiſite to return an Anſwer to the aforeſaid Charge in theſe following Words, <hi>(viz.)</hi> to call Names for or about Reli<g ref="char:EOLhyphen"/>gion are no Chriſtians of Chriſt's making See
+<pb n="10" facs="tcp:36189:6"/>more at large <hi>W. Pen</hi>'s <hi>Addreſs to Proteſtants,</hi> &amp;c. p. 242.) therefore its condemned by the true Chriſtian Quaker in them that ſo do.</p>
+            <p>
+               <hi rend="margQuotes">F. B's <hi>ſixth Charge</hi> againſt <hi>G. Fox,</hi> cited out of a Book entituled, <hi>A Battledore for Teachers and Profeſſors:</hi> All Languages are to me (ſays <hi>G. F.</hi>) no more than Duſt, who was before Languages were: <hi>Introduct.</hi> Again, p. 214. And next follows a few Words to the whole Matter by <hi>G. Fox,</hi> who was before Confuſion or the many Languages were.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> If <hi>G. Fox</hi> did hold the Doctrine of the pre-exiſtence of human Souls when he writ the aforeſaid Citation, he is not ſo much to be blamed as he is if he ſpoke in reference to his Bo<g ref="char:EOLhyphen"/>dy (<hi>i. e.</hi> the Perſon of <hi>G. F.</hi>) however, we will paſs by the foregoing Paſſage, and proceed to as much brevity as may be. As to thoſe Paſſages in <hi>G. F</hi>'s <hi>Battledore,</hi> which are of no leſs import than high Blaſphemy, and he was much to be blamed for his ſaid Error, and the true Chriſtian Quaker hereby condemneth him for it, and any one that ſhall go about to cover him in that or any other blaſphemous Errors, believing ſeveral of his ſaid Writings, (<hi>i.e. G. F</hi>'s) to contain divers Errors and unſound Notions, and have done much hurt and ſtumbled many a ſeeking Soul: And, particu<g ref="char:EOLhyphen"/>larly it was his great weakneſs, who was (but a Shoe-maker and) bred an illiterate Man, to pre<g ref="char:EOLhyphen"/>tend to make a <hi>Battledore</hi> of divers Languages, to teach People <hi>tu, nos &amp; vos,</hi> &amp;c. who underſtood not the Signification of either but by Hiſtory and Tradition (even as a Parrot can well talk ſo far as he hath been taught.) To conclude, What
+<pb n="11" facs="tcp:36189:6"/>Error or unſound Notion hath been found or may yet be found in any Book or Books written by <hi>G. F.</hi> or any others called Quakers, whether the Perſons or Authors be living or dead, the ſaid Weakneſs or Errors are teſtified againſt by the Chriſtian Believers of the crucified Jeſus, who are in ſcorn called Quakers, hoping God in his own due time will more and more refine his People, and give them a true ſight of their Evils, that thereby they may forſake the ſame, and be more and more delighted to walk in the Light of his dear Son and our Saviour Jeſus Chriſt, is the true deſire of all ſincere Chriſtians, who have no Life nor Delight in Strife or Contention, <hi>&amp;c.</hi>
+            </p>
+            <p>F. B's <hi>Charge against</hi> James Parnel <hi>cited.</hi> 
+               <q>But to the End of all Diſputes and Arguments, I am come; for before they were I am (ſaid <hi>James Parnel.</hi>)</q>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> It was great Blaſphemy in <hi>J. Parnel,</hi> for ſo ſaying, and its hereby denied and judged as a great weakneſs, that proceeded through his Ignorance.</p>
+            <p>Whereas <hi>F. B.</hi> accuſeth the Quakers for teach<g ref="char:EOLhyphen"/>ing, That the Name of Jeſus and Chriſt do not properly belong to the Body that ſuffered upon the Croſs at <hi>Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The Charge it ſelf is falſe and ground<g ref="char:EOLhyphen"/>leſs (mark) the Charge being laid upon the Ge<g ref="char:EOLhyphen"/>neral (the word <hi>Quakers</hi> being of the plural num<g ref="char:EOLhyphen"/>ber includes a great part of them, or leaſt wiſe, the whole Body of the People.) If any pretended Quaker hath at any time ſo taught, he is culpable for the ſame, it being contrary to the Doctrine of the Chriſtian Quaker ſo to teach, but do (in
+<pb n="12" facs="tcp:36189:7"/>oppoſition to the aforeſaid Charge) preach and teach as a neceſſary Article of Faith, <hi>viz.</hi> to be<g ref="char:EOLhyphen"/>lieve that Salvation is to be obtained through a living Faith in his Death, Sufferings, Reſurrecti<g ref="char:EOLhyphen"/>on and Aſcenſion; therefore, the Name of Jeſus and Chriſt, do moſt properly belong to that Bo<g ref="char:EOLhyphen"/>dy that was born of the Virgin <hi>Mary,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the prejudice of <hi>F. B.</hi>'s aforeſaid Charge; who further continues to acenſe the Quakers with queſtioning who was the firſt Penman of the Scriptures, whether <hi>Moſes</hi> or <hi>Hermes?</hi> To which its anſwered; The true Chriſtian Quaker never ſo queried, being well ſatisfied by Faith, that <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the Servant of God, was the firſt Penman of Holy Writ.</p>
+            <p>Its farther noticed, that <hi>F. B.</hi> cites a Paſſage out of <hi>Ed. B.</hi>'s Works, <hi>&amp;c.</hi> p. 273. <hi>viz.</hi> 
+               <q>The Sufferings of the People of God (call'd Quakers) in this Age, are greater Sufferings and more Un<g ref="char:EOLhyphen"/>juſt, than in the Days of Chriſt, or of the Apo<g ref="char:EOLhyphen"/>ſtles, or in any times ſince.</q>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> It was an Error in <hi>E. Bu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oughs</hi> for ſo ſaying. The Chriſtian Quaker denies it; believ<g ref="char:EOLhyphen"/>ing no Sufferings that can be inflicted upon p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Mortals are ſo great; neither ought any Suffer<g ref="char:EOLhyphen"/>ings or Perſecution to be brought in competition with the Sufferings of our dear Lord and Saviour Jeſus Chriſt, who hath taken our C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe upon himſelf, and became a Propitiation not for our ſins only, but for the ſins of the whoſe World; (Oh what unexpreſſible Love was it, that the In<g ref="char:EOLhyphen"/>finite <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing ſhould condeſcend, after ſuch an ad<g ref="char:EOLhyphen"/>mirable manner, for the Reſtoration of his Finite Creat<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>) and by Faith in the Blood of this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ma<g ref="char:EOLhyphen"/>culate
+<pb n="13" facs="tcp:36189:7"/>Lamb, the Chriſtian Quaker expects Salvation, and by no other Name that can be given under Heaven, and do account it a great Bleſſing if the Lord ſhould ſuffer Hard<g ref="char:EOLhyphen"/>ſhips and Tryals to come upon them, in that his Love ſhould be ſuch, as to count them worthy to ſuffer for his holy Names ſake.</p>
+            <p>
+               <hi>F. B.</hi>'s Charge againſt <hi>Iſaac Pennington</hi> cited, <hi>&amp;c.</hi>
+            </p>
+            <p>A Queſtion to Prooff. <hi>p.</hi> 33. <q>Now the Scriptures do as expreſly diſtinguiſh between Chriſt and the Garment which he wore; between him that came, and the Body in which he came; between the Subſtance which was veiled, and the Veil which veiled it; there was plainly he and the bo<g ref="char:EOLhyphen"/>dy in which he came; there was the outward Veſſel, and the inward Life; this we certainly know, and can never call the bodily Garment, Chriſt.</q>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> The foregoing Citation was an undeniable Error in <hi>Iſ. Pennington.</hi> which proceeded from a d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fect of his Un<g ref="char:EOLhyphen"/>derſtanding; and its not at all doubted, but that if that wor<g ref="char:EOLhyphen"/>thy Man <hi>(I. P.)</hi> were in being, he would readily retract the ſlip of his Pen, not only in that Matter, but in any other of the like Import; therefore, wherein any Man ſees a weakneſs in anothers Speaking, or a ſlip of his Pen, let him take heed of falling into the like Evil.</p>
+            <p>Its farther obſerved, <hi>F. B.</hi> ſeems to condemn the Quakers as if they denied the very fundamental Articles of the Chri<g ref="char:EOLhyphen"/>ſtian Faith, notwithſtanding his pretended diſtinction, by ſaying the <hi>Foxonian</hi> Quakers, as if all that had any love or reſpect for <hi>G. F.</hi> were guilty of denying the neceſſary Doctrin of the Chriſtian Religion. Note, it cannot reaſonably be ſuppoſed that ſuch a great number of People as he <hi>(F. B.)</hi> calls <hi>Foxonians,</hi> ſhould be guilty of ſuch great <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tors as he (ſeems) to charge them with; not but it may be and is grant<g ref="char:EOLhyphen"/>ed that ſome ignorant Man or Men may have aſſerted un<g ref="char:EOLhyphen"/>ſound Notions through their Ignorance; but what is that to the purpoſe, that he ſhould charge the Ignorance of ſome par<g ref="char:EOLhyphen"/>ticular Men, upon ſuch a Body of People, both in <hi>England, Scotland, Ireland</hi> and <hi>America?</hi> Its not to be queſtioned but many hundreds in thoſe Parts of the World, had a good re<g ref="char:EOLhyphen"/>ſpect for <hi>G. F.</hi> ſo it cannot be well conjectured that ſuch a num<g ref="char:EOLhyphen"/>ber as they muſt be, ſhould be guilty of the aforeſaid Charge; and, I hope, none will be ſo raſh as to judge, that they reſpe<g ref="char:EOLhyphen"/>cted <hi>G. F.</hi> for any Weakneſs that he might be guilty of (no, it would be a great Miſtake in any ſo to conclude); its not
+<pb n="14" facs="tcp:36189:8"/>to be doubted, but the wiſe and underſtanding Men among them, that he calls <hi>Foxonians,</hi> do hold and ſincerely believe all the neceſſary Doctrins and Points thereof, that are depend<g ref="char:EOLhyphen"/>ing upon the Chriſtian Religion, notwithſtanding <hi>F. B.</hi> hath publiſhed ten Articles (written by our Chriſtian Friend <hi>George Keith</hi>) as if the Quakers did not hold the ſame, nor had Unity with <hi>G. K.</hi> in the ſaid ten Articles, becauſe <hi>F. B.</hi> ag<g ref="char:EOLhyphen"/>gravates the Matter in theſe Words, <hi>viz.</hi> Who was perſe<g ref="char:EOLhyphen"/>cuted for his Chriſtian Teſtimony by the Quakers in <hi>Penſil<g ref="char:EOLhyphen"/>vania.</hi> Here I cannot but greatly blame <hi>F. B.</hi> for charging the Body of the People called Quakers in <hi>Penſilvania,</hi> his Charge being abſolutely general (the word Quakers implies it to be ſuch;) therefore, its inconſiſtent with ſound Reaſon to think that this Body of People, which are contained in that Province, ſhould be concerned in the Perſecution of one poor Man (<hi>i. e.</hi> G. K.) no, he is greatly beſides the Matter for charging the Quakers there.</p>
+            <p>Its confeſſed, he might have laid his Charge, and prove it plain enough upon <hi>Sam. Jennings, Cook</hi> and <hi>Lloyd,</hi> and others, who are manifeſt to be but a Party or Faction of pretended Quakers, for they can be no otherwiſe; it being inconſiſtent with the Quakers Principle to be a Perſecutor; as is mani<g ref="char:EOLhyphen"/>feſt to the World by our Friends of the yearly Meeting at <hi>Burlington,</hi> who have condemned 28 falſe Judges for their er<g ref="char:EOLhyphen"/>roneous Judgment and Perſecution, and we doubt not but many hundereds in <hi>Penſilvania</hi> as well as <hi>England</hi> and other Parts of the World are one with them in their juſt Judg<g ref="char:EOLhyphen"/>ment and Condemnation; and its hereby declared if any are one with the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8 falſe Judges, they are likewiſe deemed to be guilty of their Evil; and, therefore, if any ſhould ſo ap<g ref="char:EOLhyphen"/>pear, they ought to be withſtood, becauſe they are greatly to be blamed. So now followeth a plain and candid Anſwer, in relation to the ten Articles, and a Condemnation of the Perſecution of our worthy and well eſteem'd Friend <hi>George Keith</hi> and others.</p>
+            <p>Firſt as to the 10 Articles, I anſwer, Many formerly in the years that are paſt through Ignorance and Weakneſs, did not then hold or believe all things in relation to the ſaid 10 Arti<g ref="char:EOLhyphen"/>cles as now worded. And for the farther ſatisfaction of any mo<g ref="char:EOLhyphen"/>derate Enquirer, I do ſincerely declare, in the behalf of all the Chriſtian Quakers throughout the World, that they have Uni<g ref="char:EOLhyphen"/>ty with the ſaid 10 Articles, and are one with our Friend, <hi>G.K.</hi> the Author thereof, altho' there may be ſome among us that
+<pb n="15" facs="tcp:36189:8"/>do not nor cannot ſee clearly into all thoſe things, by reaſon of the weakneſs of their Capacities; yet we agree ſo far in the main, that we dare not deny them (<hi>viz.</hi> the 10 Articles) eſpecially the more Judicious among us; therefore, its well hoped, that if any one Man or Men ſhould be found to deny any of the ſaid Articles, through their Ignorance and Blind<g ref="char:EOLhyphen"/>neſs, that none will go about to charge their Blindneſs upon the Chriſtian Quaker.</p>
+            <p>Secondly, As to the Perſecution of our Friend <hi>G. K.</hi> by thoſe few pretended Quakers in <hi>America,</hi> they are hereby condemned for their unchriſtian Practice; and we deny Fellowſhip with them for their ſo doing, until they repent thereof and publickly condemn the ſame under their own Hands in writing, according to the requeſt and judgment of our Friends and Brethren of the Yearly Meeting at <hi>Burlington</hi> in <hi>Weſt-Jarſy;</hi> and we do declare we have living Unity and Fellowſhip with them in their ſaid Judgment, and do hereby declare a Diſunion with the Judg<g ref="char:EOLhyphen"/>ment of that Party or Faction of the Yearly Meeting at <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> and according to the 10 Queries ſigned by <hi>R. Haway,</hi> they are in like manner declared to be partial in their Judg<g ref="char:EOLhyphen"/>ment, their Judgment being wrong in Matter of Fact in di<g ref="char:EOLhyphen"/>vers Reſpects, and contradictory to the Judgment of our Friends in <hi>America;</hi> for which cauſe the Chriſtian Quaker denies their <hi>London</hi> Judgment, and have no more Unity with it, than we have of the Perſecution of <hi>G. K.</hi> and others, which in plain Terms is none at all; neither with the con<g ref="char:EOLhyphen"/>tention of <hi>F. B.</hi> and <hi>G. W.</hi> So deſiring to deſiſt at preſent, being in ſome meaſure eaſed of the conſcientious Concern that was upon me, to write this ſmall thing in Vindication of the deſpiſed Believers of Jeſus of <hi>Nazareth,</hi> called Quakers. I recommend every one to the Grace of God in their own Hearts, which is able to keep and preſerve them from the Strife of the Tongue and Pen. And as to the ſix Particu<g ref="char:EOLhyphen"/>lars as <hi>F. B.</hi> charges the Quakers with denying, are owned by them, for the major part, <hi>viz.</hi>
+            </p>
+            <p n="1">1. The Chriſtian Quakers own Jeſus of <hi>Nazareth,</hi> who was born of the bleſſed Virgin <hi>Mary,</hi> to be the Chriſt of God, and the efficient Cauſe of Mans Salvation. 2. The Chriſtian Quaker's Books are to teſtifie againſt Blaſphemy and Wicked<g ref="char:EOLhyphen"/>neſs of all kinds, and to condemn Idolatry. 3. They own the Scriptures, and prefer them above all Writings extant, having a venerable Eſteem for the ſame. 4. They own the Ordinances of Jeſus Chriſt, as his Baptiſm and the Supper,
+<pb n="16" facs="tcp:36189:9"/>deſiring to be Baptized with his Spiritual Baptiſm (of which the Water was but an external Figure) and to partake of his Supper to the ſatisfaction of their hungry Souls, of which the material Bread and Wine was but an outward and viſible Sign of the inward and ſpiritual Grace. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. They (<hi>i. e.</hi> the Chriſtian Quakers) value the Death and Sufferings of Chriſt, and wonderfully admire the love of the Father, in ſending his only begotten Son in the fulneſs of time, for the reſto<g ref="char:EOLhyphen"/>ration of fallen Man. 6. They exalt the Sufferings of Chriſt Jeſus above any Sufferings that can be inflicted upon ſinful Man.</p>
+            <p>Thoſe that would know more of the Quakers Faith, we refer them to the firſt Part of a little Treatiſe, entituled, <hi>The Principles of Truth,</hi> written by our ancient and honour<g ref="char:EOLhyphen"/>able Friend <hi>John Crocke.</hi> So here I ſhall make the End.</p>
+            <closer>
+               <dateline>Given forth and ſigned in behalf of the Chriſtian Qua<g ref="char:EOLhyphen"/>kers,</dateline>
+               <signed>by <hi>D. S.</hi>
+               </signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> the 7th. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A Poſtſcript, by way of Request.</head>
+            <p>IT is hereby requeſted of all thoſe that are Living, whoſe former or later Writings are in any ſort defective, that they would write Explanations and Emendations upon them; as alſo upon thoſe others that are defective, notwithſtanding the Authors may be dead, whereby that which offends many will be removed out of the way; and in ſo doing, they will ſave others a Labour of doing it for them. </p>
+            <closer>
+               <salute>Farewel.</salute>
+               <signed>D. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
